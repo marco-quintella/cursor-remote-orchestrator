@@ -1,0 +1,17 @@
+{
+  "name": "cursor-remote-orchestrator",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Command Cursor AI agents from GitHub",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.30.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
